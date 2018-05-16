@@ -1,0 +1,24 @@
+1. TERMINAL BASICS EXERCISES
+1. mkdir first
+2. cd first
+3. touch person.txt
+4. mv person.txt another.txt
+5. cp another.txt copy.txt
+6. rm copy.txt
+7. cp -r first second
+8. rm -rf second
+—
+1. Pulls up the manual/guide for a command. D scrolls down, U scrolls up, B scrolls back up faster. Q quits the manual.
+2. -l lists in long format, and -a includes hidden files/folders too.
+3. curl https://www.google.com > google.html
+4. less google.html
+5. less -p hplogo google.html
+6. hold option, use arrow keys.
+7. control e
+8. control a to move to beginning. 
+9. option delete to delete a word.
+10. The terminal is a program that is metaphorically like a physical computer terminal, connecting to the shell. The shell is the thing that actually interprets and executes your commands. 
+11. Full file path from root.
+12. File path starting from (read: relative to) current location.
+13. Flags are accessories for commands that change up their behavior. Examples above include -r for command cp, -r and -f for command rm, -l and -a for command ls.
+14. -r removes folders and folders in folders (recursive). -f will force removal.

@@ -1,0 +1,26 @@
+3. INTERMEDIATE TERMINAL EXERCISES
+1. export FIRST_NAME=Zack
+2. echo $FIRST_NAME
+3. echo $PATH
+4. Used to find programs to execute
+5. To use the variable multiple times
+6. Save them to .zshrc
+7. A program running on your computer
+8. ps -ax
+9. Every process has one as a unique ID
+10. kill
+11. -9 flag kills processes that would not normally be killed
+12. -i
+13. -B
+14. -C
+15. -A
+16. -w
+17. -n
+—
+1. find ~/Desktop -name “learn”
+2. find ~/Desktop -name “P.*”
+3. find ~/Desktop -name “*.txt”
+4. find ~/Desktop/views -name “*data*”
+5. grep -c “Elie” instructors.txt
+6. grep -w “P.*” instructors.txt
+7. grep -ni “z.*” instructors.txt

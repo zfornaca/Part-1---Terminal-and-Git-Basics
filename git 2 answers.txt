@@ -1,0 +1,13 @@
+2. BRANCHING AND MERGING EXERCISES
+1. removes files from git directory that have not been staged
+2. remove untracked files plus directories
+3. git checkout -b
+4. “fast forward” is what happens if the side branch was started, worked on, and merged all without changes to the master branch. “recursive” is the process of reconciling when both versions have been updated.
+5. git checkout [name of branch]
+6. git checkout
+7. git branch -D
+8. compares two different commits and shows the differences
+9. git rm —cached [name of file]
+10. For recursive merge, when the same file has conflicting changes in both versions.
+—
+n/a
